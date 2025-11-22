@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using MiWebApi.Entidades;
 
 namespace MiWebApi
 {
@@ -8,5 +9,7 @@ namespace MiWebApi
         {
 
         }
+
+        public DbSet<Laptop> Laptops{ get; set; }
     }
 }

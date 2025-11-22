@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\FullStack\\Productos-FullStack-Angular-.Net\\MiWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A02F528-446E-4A6D-836E-834D72A1E398}|MiWebApi\\MiWebApi.csproj|c:\\users\\camiv\\desktop\\fullstack\\miwebapi\\miwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3A02F528-446E-4A6D-836E-834D72A1E398}|MiWebApi\\MiWebApi.csproj|solutionrelative:miwebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A02F528-446E-4A6D-836E-834D72A1E398}|MiWebApi\\MiWebApi.csproj|c:\\users\\camiv\\desktop\\fullstack\\miwebapi\\miwebapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A02F528-446E-4A6D-836E-834D72A1E398}|MiWebApi\\MiWebApi.csproj|solutionrelative:miwebapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A02F528-446E-4A6D-836E-834D72A1E398}|MiWebApi\\MiWebApi.csproj|c:\\users\\camiv\\desktop\\fullstack\\miwebapi\\miwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A02F528-446E-4A6D-836E-834D72A1E398}|MiWebApi\\MiWebApi.csproj|solutionrelative:miwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A02F528-446E-4A6D-836E-834D72A1E398}|MiWebApi\\MiWebApi.csproj|c:\\users\\juan.henao\\onedrive - softwareone\\desktop\\fullstack\\productos-fullstack-angular-.net\\miwebapi\\miwebapi\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A02F528-446E-4A6D-836E-834D72A1E398}|MiWebApi\\MiWebApi.csproj|solutionrelative:miwebapi\\controllers\\laptopscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 15,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\MiWebApi\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "MiWebApi\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\MiWebApi\\ApplicationDbContext.cs",
-              "RelativeToolTip": "MiWebApi\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T14:34:20.371Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\MiWebApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "MiWebApi\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\MiWebApi\\appsettings.Development.json",
-              "RelativeToolTip": "MiWebApi\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-22T03:36:44.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\MiWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "MiWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\MiWebApi\\Program.cs",
-              "RelativeToolTip": "MiWebApi\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Title": "LaptopsController.cs",
+              "DocumentMoniker": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\FullStack\\Productos-FullStack-Angular-.Net\\MiWebApi\\MiWebApi\\Controllers\\LaptopsController.cs",
+              "RelativeDocumentMoniker": "MiWebApi\\Controllers\\LaptopsController.cs",
+              "ToolTip": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\FullStack\\Productos-FullStack-Angular-.Net\\MiWebApi\\MiWebApi\\Controllers\\LaptopsController.cs",
+              "RelativeToolTip": "MiWebApi\\Controllers\\LaptopsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T03:28:42.02Z",
+              "WhenOpened": "2025-11-22T18:32:36.544Z",
               "EditorCaption": ""
             }
           ]

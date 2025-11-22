@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\MiWebApi\\MiWebApi.csproj": {}
+    "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\FullStack\\Productos-FullStack-Angular-.Net\\MiWebApi\\MiWebApi\\MiWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\MiWebApi\\MiWebApi.csproj": {
+    "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\FullStack\\Productos-FullStack-Angular-.Net\\MiWebApi\\MiWebApi\\MiWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\MiWebApi\\MiWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\FullStack\\Productos-FullStack-Angular-.Net\\MiWebApi\\MiWebApi\\MiWebApi.csproj",
         "projectName": "MiWebApi",
-        "projectPath": "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\MiWebApi\\MiWebApi.csproj",
-        "packagesPath": "C:\\Users\\camiv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camiv\\Desktop\\FullStack\\MiWebApi\\MiWebApi\\obj\\",
+        "projectPath": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\FullStack\\Productos-FullStack-Angular-.Net\\MiWebApi\\MiWebApi\\MiWebApi.csproj",
+        "packagesPath": "C:\\Users\\juan.henao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan.henao\\OneDrive - SoftwareONE\\Desktop\\FullStack\\Productos-FullStack-Angular-.Net\\MiWebApi\\MiWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\camiv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juan.henao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -52,17 +53,27 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[9.0.10, )"
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.11, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.0, )"
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -81,10 +92,10 @@
               "privateAssets": "none"
             },
             "Microsoft.NETCore.App": {
-              "privateAssets": "all"
+              "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

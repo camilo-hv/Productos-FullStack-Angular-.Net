@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using MiWebApi;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -15,6 +18,8 @@ builder.Services.AddCors(options =>
         politica.WithOrigins(origenesPermitidos).AllowAnyHeader().AllowAnyMethod();
     });
 });
+
+builder.Services.AddDbContext<ApplicationDbContext>(opciones => opciones.UseSqlServer("name=DefaultConnection"));
 
 var app = builder.Build();
 
